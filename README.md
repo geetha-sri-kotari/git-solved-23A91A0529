@@ -8,8 +8,8 @@ A comprehensive CI/CD configuration management tool for enterprise deployments, 
 - **Experimental Version**: 3.0.0-experimental  
 - **Environments**: Production, Development, and Testing
 - **Maintainer**: DevOps Innovation Team
-- **Student**: [YOUR NAME]
-- **Student ID**: [YOUR ID]
+- **Student**: Geetha Sri Kotari
+- **Student ID**: 23A91A0529
 
 ---
 
