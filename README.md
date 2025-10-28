@@ -57,3 +57,4 @@ npm install
 npm run dev
 
 "## FAQ" 
+"update" 
