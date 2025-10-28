@@ -1,0 +1,24 @@
+* 3691b3c (HEAD -> main, origin/main, origin/HEAD) docs: Add chanelog
+* 40c78bf Add git_journey.md documenting git challenge progress
+| * bcd779d (feature/another-feature) Bad commit
+|/  
+| * e6fbe49 (origin/feature/another-feature) feat: Add test feature
+|/  
+* 369ff78 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 8210f61 feat: Add new feature
+* 975d8b0 docs: Add FAQ section
+| * 6e9057d (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   c64c4dc merge: Resolve all conflicts between main and conflict-simulator
+|\  
+| * d3dd9b2 (origin/conflict-simulator, instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | a3609a4 Add checkpoint2.png showing log graph
+* |   0a3c3e7 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (origin/dev, instructor/dev, dev) updating dev
+| |/  
+* | 4fa550e Add checkpoint1.png showing git log graph
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
